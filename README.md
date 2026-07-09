@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
