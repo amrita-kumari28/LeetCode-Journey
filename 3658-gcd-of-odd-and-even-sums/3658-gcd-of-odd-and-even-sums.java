@@ -16,8 +16,8 @@ class Solution {
         // }
         // return gcd(sumOdd,sumEven);
 
-        int odd=n*n;
-        int even =n*n+1;
+        // int odd=n*n;
+        // int even =n*n+1;
         return n;
     }
     // private int gcd(int a, int b){
