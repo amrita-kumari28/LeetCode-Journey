@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
