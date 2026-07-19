@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1288-remove-covered-intervals](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
