@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
