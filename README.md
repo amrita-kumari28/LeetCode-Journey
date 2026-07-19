@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -214,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
