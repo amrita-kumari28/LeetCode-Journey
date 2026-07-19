@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0198-house-robber) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
