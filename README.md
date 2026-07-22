@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0414-third-maximum-number) |
