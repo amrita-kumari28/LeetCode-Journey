@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0486-predict-the-winner](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0258-add-digits) |
+| [0486-predict-the-winner](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -258,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
