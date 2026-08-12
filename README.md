@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3731-find-missing-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
