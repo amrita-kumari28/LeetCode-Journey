@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
 | ------- |
@@ -344,4 +349,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
