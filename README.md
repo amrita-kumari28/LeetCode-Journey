@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3731-find-missing-elements) |
