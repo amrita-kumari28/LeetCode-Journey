@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
