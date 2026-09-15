@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita-kumari28/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
